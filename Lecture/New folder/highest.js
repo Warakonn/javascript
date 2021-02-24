@@ -12,4 +12,4 @@ function highestDigit(num)
 }
 console.log (highestDigit(69));
 console.log (highestDigit(112));
-console.log (highestDigit(890));
+console.log (highestDigit(80));
